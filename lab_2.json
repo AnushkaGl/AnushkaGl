@@ -49,7 +49,7 @@
 					        "service_id": 1,
 					        "client": {
 					            "id": 1,
-					            "name": "Филиппова Анна Валерьевна"
+					            "name": "Силиппова Анна"
 					        },
 					        "service": {
 					            "id": 1,
@@ -62,7 +62,7 @@
 					        "service_id": 2,
 					        "client": {
 					            "id": 2,
-					            "name": "Пикунова Анна"
+					            "name": "Силиппова Анна Валерьевна"
 					        },
 					        "service": {
 					            "id": 2,
@@ -73,7 +73,7 @@
 		"method": "GET"
 	},
 	{
-		"url": "http://laravel/api/v2/clients?name=Пискунова Анна",
+		"url": "http://laravel/api/v2/clients?name=Силиппова Анна",
 		"response": { "result": "Запись добавлена" },
 		"method": "POST"
 	},
